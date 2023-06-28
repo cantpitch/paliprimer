@@ -1,0 +1,72 @@
+Exercise 19
+
+1. Ammāya mañjūsāyaṃ pakkhittaṃ suvaṇṇaṃ dārikā na gaṇhi.
+	the mother - the box - placed - the gold - the girl - not - take
+	(ins/f/s) - (loc/f/s) - (past part./acc) - (acc/n/s) - (nom/f/s) - not - (aor/3rd/s)
+	The girl did not take the gold placed in the box by the mother.
+
+2. Dhotāni vatthāni gahetvā bhariyā udakamhā uttari.
+	washed - clothes - having took - wife - water - comes out of
+	(past part./acc) - (acc/n/p) - (abs) - (nom/f/s) - (abl/m/s) - (aor/3rd/s)
+	The wife comes out of the water having took the washed clothes.
+
+3. Kassakehi uyyāne ropitesu rukkhesu phalāni bhaviṃsu.
+	farmers - park - planted - tree - fruits - became/were?
+	(ins/m/p) - (loc/m/s) - (past part./loc) - (acc/n/p) - (aor/3rd/p)
+	There were fruits on the tree planted by the farmers in the park.
+
+4. Buddhā devehi ca narehi ca pūjitā honti.
+	Buddhas - gods - and - men - and - worshipped - are
+	(nom/m/p) - (ins/m/p) - and - (ins/m/p) - and - (past part./nom/p) - (p/3rd/p)
+	Buddhas are worshipped by gods and men.
+
+5. Udakena pūritaṃ pattaṃ gahetvā vanitā gehaṃ āgatā hoti.
+	water - filled - bowl - having took - woman - house - come - has
+	(ins/m/s) - (past part./acc/s) - (acc/m/s) - (abs) - (nom/f/s) - (acc/n/s) - (p/3rd/s)
+	The woman has come to the house having took the bowl filled with water.
+
+6. Adhammena (unrighteously) dīpaṃ pālentena bhūpālena pīḷitā manussā kuddhā honti.
+	unrighteously - island - governing - king - oppressed - people - angered - are
+	(ins/m/s) - (acc/m/s) - (pres. part./ins/m/s) - (ins/m/s) - (past part./nom/m/p) - (nom/m/p) - (past part./nom/m/p) - (p/3rd/p)
+	The people are angered, oppressed by the king governing the island unrighteously.
+
+7. Pakkaṃ (ripe) phalaṃ tuṇḍena gahetvā uḍḍentaṃ suvaṃ ahaṃ apassiṃ.
+	ripe - fruit - beak - having took - flying - parrot - I - saw
+	(acc/m/s) - (acc/m/s) - (ins/m/s) - (abs) - (pres. part/nom/m/s) - (acc/m/s) - (pro/1st/s) - (aor/1st/s)
+	I saw a flying parrot having took ripe fruit with its beak.
+
+8. Udento suriyo brāhmaṇena namassito hoti.
+	rising - sun - brahmin - worshipped - is
+	(pres. part./nom/m/s) - (nom/m/s) - (ins/nom/s) - (past part./nom/m/s) - (p/3rd/s)
+	The rising sun was worshipped by the brahmin.
+
+9. Ammāya jālitaṃ dīpaṃ ādaya putto vihāraṃ paviṭṭho hoti.
+	mother - lit - lamp - having taken - son - monastery - entered (?) - has
+	(ins/f/s) - (past part./acc/m/s) - (acc/m/s) - (abs) - (nom/m/s) - (acc/m/s) - (p/3rd/s)
+	The son has entered the monastery having taken the lamp lit by the mother.	
+
+10. Vanitāya dussena chādite āsane samaṇo nisīditvā sannipatitāya parisāya dhammaṃ desesi.
+	woman - cloth - concealed - seat - monk - having sat - assembled - retinue - doctrine - preached
+	(ins/f/s) - (ins/m/s) - (past part./ins/m/s) - (ins/n/s) - (nom/m/s) - (abs) - (past part./dat/f/s) - (dat/f/s) - (acc/m/s) - (a/2nd/s)
+	The monk having sat in the seat covered with the cloth by the woman and preached the doctrine to the assembled retinue. 
+
+11. Kassakena khettaṃ ānītā goṇā tiṇaṃ khādantā āhiṇḍiṃsu.
+12. Vāṇijā mañjūsāsu ṭhapitāni dussāni na vikkiṇiṃsu.
+13. Sace tvaṃ saccaṃ jāneyyāsi mā puttaṃ akkosa.
+14. Nāvāya nikkhantā narā samuddaṃ taritvā dīpaṃ pāpuṇitvā bhariyāhi saddhiṃ kathentā modanti.
+15. Magge ṭhite vāṇijassa sakaṭe ahaṃ kaññāya ānītāni bhaṇḍāni ṭhapesiṃ.
+16.  Dhammena laddhena dhanena putte posetvā jīvantā manussā devatāhi rakkhitā honti.
+17. Sāvakehi ca upāsakehi ca parivārito Buddho vihārassa chāyāya nisinno hoti.
+18. Ammāya pāpehi nivāritā puttā sappurisā hutvā dhammaṃ suṇanti.
+19. Kassake pīḷentā corā paṇḍitena anusāsitā sappurisā bhavituṃ vāyamantā upāsakehi saddhiṃ uyyāne rukkhe ropenti.
+20. Vanitā puttāya paṭiyāditamhā bhattamhā khudāya pīḷitassa yācakassa thokaṃ (little) datvā pānīyaṃ ca dadi /adāsi.
+21. Sabhāyaṃ nisīditvā dārikāya gāyitaṃ gītaṃ sutvā kaññāyo modiṃsu.
+22. Amaccena nimantitā purisā sālāyaṃ nisīdituṃ asakkontā (unable) uyyāne sannipatiṃsu.
+23. Kassakehi khettesu vuttehi bījehi thokaṃ (little) sakuṇā khādiṃsu.
+24. Kumārehi rukkhamūle nilīyitvā sayanto sappo diṭṭho hoti.
+25. Vāṇijena dīpamhā āhaṭāni vatthāni kiṇituṃ vanitāyo icchanti.
+26. Sace bhūpālo dhammena manusse rakkheyya te kammāni katvā dārake posentā sukhaṃ vindeyyuṃ.
+27. Puttena yācitā ammāmittānaṃ odanaṃ paṭiyādesi.
+28. Amaccena puṭṭhaṃ pañhaṃ adhigantuṃ asakkonto corānaṃ dūto cintetuṃ ārabhi.
+29. Corehi guhāyaṃ nilīyitāni bhaṇḍāni passitvā vānarā tāni (them) ādāya rukkhe āruhiṃsu.
+30. Ahaṃ pariyesitaṃ dhammaṃ adhigantvā modāmi.
