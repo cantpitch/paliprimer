@@ -2,32 +2,32 @@ Exercise 19
 
 1. Ammāya mañjūsāyaṃ pakkhittaṃ suvaṇṇaṃ dārikā na gaṇhi.
 	the mother - the box - placed - the gold - the girl - not - take
-	(ins/f/s) - (loc/f/s) - (past part./acc) - (acc/n/s) - (nom/f/s) - not - (aor/3rd/s)
+	(ins/f/s) - (loc/f/s) - (pp/acc) - (acc/n/s) - (nom/f/s) - not - (aor/3rd/s)
 	The girl did not take the gold placed in the box by the mother.
 
 2. Dhotāni vatthāni gahetvā bhariyā udakamhā uttari.
 	washed - clothes - having took - wife - water - comes out of
-	(past part./acc) - (acc/n/p) - (abs) - (nom/f/s) - (abl/m/s) - (aor/3rd/s)
+	(pp/acc) - (acc/n/p) - (abs) - (nom/f/s) - (abl/m/s) - (aor/3rd/s)
 	The wife comes out of the water having took the washed clothes.
 
 3. Kassakehi uyyāne ropitesu rukkhesu phalāni bhaviṃsu.
 	farmers - park - planted - tree - fruits - became/were?
-	(ins/m/p) - (loc/m/s) - (past part./loc) - (acc/n/p) - (aor/3rd/p)
+	(ins/m/p) - (loc/m/s) - (pp/loc) - (acc/n/p) - (aor/3rd/p)
 	There were fruits on the tree planted by the farmers in the park.
 
 4. Buddhā devehi ca narehi ca pūjitā honti.
 	Buddhas - gods - and - men - and - worshipped - are
-	(nom/m/p) - (ins/m/p) - and - (ins/m/p) - and - (past part./nom/p) - (p/3rd/p)
+	(nom/m/p) - (ins/m/p) - and - (ins/m/p) - and - (pp/nom/p) - (pr/3rd/p)
 	Buddhas are worshipped by gods and men.
 
 5. Udakena pūritaṃ pattaṃ gahetvā vanitā gehaṃ āgatā hoti.
 	water - filled - bowl - having took - woman - house - come - has
-	(ins/m/s) - (past part./acc/s) - (acc/m/s) - (abs) - (nom/f/s) - (acc/n/s) - (p/3rd/s)
+	(ins/m/s) - (pp/acc/s) - (acc/m/s) - (abs) - (nom/f/s) - (acc/n/s) - (p/3rd/s)
 	The woman has come to the house having took the bowl filled with water.
 
 6. Adhammena (unrighteously) dīpaṃ pālentena bhūpālena pīḷitā manussā kuddhā honti.
 	unrighteously - island - governing - king - oppressed - people - angered - are
-	(ins/m/s) - (acc/m/s) - (pres. part./ins/m/s) - (ins/m/s) - (past part./nom/m/p) - (nom/m/p) - (past part./nom/m/p) - (p/3rd/p)
+	(ins/m/s) - (acc/m/s) - (prp/ins/m/s) - (ins/m/s) - (pp/nom/m/p) - (nom/m/p) - (pp/nom/m/p) - (pr/3rd/p)
 	The people are angered, oppressed by the king governing the island unrighteously.
 
 7. Pakkaṃ (ripe) phalaṃ tuṇḍena gahetvā uḍḍentaṃ suvaṃ ahaṃ apassiṃ.
@@ -37,36 +37,114 @@ Exercise 19
 
 8. Udento suriyo brāhmaṇena namassito hoti.
 	rising - sun - brahmin - worshipped - is
-	(pres. part./nom/m/s) - (nom/m/s) - (ins/nom/s) - (past part./nom/m/s) - (p/3rd/s)
+	(prp/nom/m/s) - (nom/m/s) - (ins/nom/s) - (pp/nom/m/s) - (p/3rd/s)
 	The rising sun was worshipped by the brahmin.
 
 9. Ammāya jālitaṃ dīpaṃ ādaya putto vihāraṃ paviṭṭho hoti.
 	mother - lit - lamp - having taken - son - monastery - entered (?) - has
-	(ins/f/s) - (past part./acc/m/s) - (acc/m/s) - (abs) - (nom/m/s) - (acc/m/s) - (p/3rd/s)
+	(ins/f/s) - (pp/acc/m/s) - (acc/m/s) - (abs) - (nom/m/s) - (acc/m/s) - (p/3rd/s)
 	The son has entered the monastery having taken the lamp lit by the mother.	
 
 10. Vanitāya dussena chādite āsane samaṇo nisīditvā sannipatitāya parisāya dhammaṃ desesi.
 	woman - cloth - concealed - seat - monk - having sat - assembled - retinue - doctrine - preached
-	(ins/f/s) - (ins/m/s) - (past part./ins/m/s) - (ins/n/s) - (nom/m/s) - (abs) - (past part./dat/f/s) - (dat/f/s) - (acc/m/s) - (a/2nd/s)
+	(ins/f/s) - (ins/m/s) - (pp/ins/m/s) - (ins/n/s) - (nom/m/s) - (abs) - (pp/dat/f/s) - (dat/f/s) - (acc/m/s) - (a/2nd/s)
 	The monk having sat in the seat covered with the cloth by the woman and preached the doctrine to the assembled retinue. 
 
 11. Kassakena khettaṃ ānītā goṇā tiṇaṃ khādantā āhiṇḍiṃsu.
+	farmer - field - led - oxen - grass - having ate - wandered
+	(ins/m/s) - (acc/n/s) - (pp/nom/m/p) - (nom/m/p) - (acc/n/s) - (abs) - (a/3rd/p)
+	The oxen led by the farmer to the field wandered, eating grass.
+
 12. Vāṇijā mañjūsāsu ṭhapitāni dussāni na vikkiṇiṃsu.
+	merchants - box - kept - clothes - not - sold
+	(nom/m/p) - (loc/f/p) - (pp/acc/n/p) - (acc/n/p) - (ind) - (a/3rd/p)
+	The merchant did not sell clothes kept in the box.
+
 13. Sace tvaṃ saccaṃ jāneyyāsi mā puttaṃ akkosa.
+	if - you - truth - know - not - son - scold
+	(ind) - (pro/2nd/s) - (acc/n/s) - (opt/2nd/s) - (ind) - (acc/m/s) - (imp/2nd/s)
+	If you know the truth do not scold the son.
+
 14. Nāvāya nikkhantā narā samuddaṃ taritvā dīpaṃ pāpuṇitvā bhariyāhi saddhiṃ kathentā modanti.
+	ship - leaving - men - sea - having crossed - island - having attained - wives - with - speaking - takes delight
+	(ins/f/s) - (prp/nom/m/p) - (nom/m/p) - (acc/m/s) - (abs) - (acc/m/s) - (ins/f/p) - (ind) - (prp/nom/m/p) - (pr/3rd/p)
+	Men, leaving by ship, having crossed the sea and reached the island, they take delight in speaking with their wives.
+
 15. Magge ṭhite vāṇijassa sakaṭe ahaṃ kaññāya ānītāni bhaṇḍāni ṭhapesiṃ.
+	path/road - kept - merchant's - cart - I - girl - brought - goods - kept
+	(loc/m/s) - (past. part./nom/m/p) - (gen/m/p) - (loc/m/p) - (ins/f/s) - (pp/acc/n/p) - (acc/n/p) - (a/1st/s)
+	I placed goods brought by the girl in the merchant's cart kept on the road.
+
 16.  Dhammena laddhena dhanena putte posetvā jīvantā manussā devatāhi rakkhitā honti.
+	righteously - received - wealth - sons - having looked after - living - people - gods - protected - are
+	(ins/m/s) - (pp/ins/m/s) - (ins/m/s) - (acc/m/p) - (abs) - (prp/nom/m/p) - (nom/m/p) - (ins/f/p) - (pp/nom/m/p) - (3rd/p)
+	People who live looking after their children with righteously earned wealth are protected by gods. 
+
 17. Sāvakehi ca upāsakehi ca parivārito Buddho vihārassa chāyāya nisinno hoti.
+	monks - and - lay devotees - and - accompanied - the Buddha - monastery - shade - sat - has
+	(ins/m/p) - (ind) - (ins/m/p) - (ind) - (pp/nom/m/s) - (nom/m/s) - (gen/m/s) - (loc/f/s) - (pp/nom/m/s) - (3rd/s)
+	The Buddha, accompanied by monks and lay devotees, has sat in the shade of the monastery.
+
 18. Ammāya pāpehi nivāritā puttā sappurisā hutvā dhammaṃ suṇanti.
+	mother - evils - prevented - sons - wise men - having become - the doctrine - hear
+	(ins/f/s) - (abl/m/p) - (pp/nom/m/p) - (nom/m/p) - (nom/m/p) - (abs) - (acc/m/s) - (pr/3rd/p)
+	Sons prevented from evils by the mother became wise men and hear the doctrine.
+
 19. Kassake pīḷentā corā paṇḍitena anusāsitā sappurisā bhavituṃ vāyamantā upāsakehi saddhiṃ uyyāne rukkhe ropenti.
+	farmers - oppressing - robbers - wise man - to become - admonished - virtuous men - trying - lay devotees - with - park - trees - plant
+	(acc/m/p) - (pres. part/nom/m/p) - (nom/m/p) - (ins/m/s) - (pp/nom/m/p) - (nom/m/p) - (inf) - (pres. part/nom/m/p) - (ins/m/p) - (ind) - (loc/m/s) - (acc/m/p) - (pr/3rd/p)
+	Robbers oppressing farmers were admonished by the wise man, and trying to become good men plant trees in the park with lay devotees.
+
 20. Vanitā puttāya paṭiyāditamhā bhattamhā khudāya pīḷitassa yācakassa thokaṃ (little) datvā pānīyaṃ ca dadi /adāsi.
+	woman - son - prepared - rice - hunger - oppressed - begger - little - having given - drinking water - and - gave
+	(nom/f/s) - (dat/m/s) - (pp/abl/m/s) - (abl/m/s) - (dat/m/s) - (pp/gen,dat/m/s) - (dat/m/s) - (acc/m/s) - (abs) - (acc/n/s) - (ind) - (a/3rd/s)
+	The woman gave a little rice prepared for the son to the starving beggar and gave drinking water
+
 21. Sabhāyaṃ nisīditvā dārikāya gāyitaṃ gītaṃ sutvā kaññāyo modiṃsu.
+	assembly - having sat - girl - sang - song - having listened - girls - took delight
+	(loc/f/s) - (abs) - (ins/f/s) - (pp/acc/n/s) - (acc/n/s) - (abs) - (nom/f/p) - (a/3rd/p)
+	The girls having sat in assembly enjoy having listened to the song sang by the girl.
+	
 22. Amaccena nimantitā purisā sālāyaṃ nisīdituṃ asakkontā (unable) uyyāne sannipatiṃsu.
+	minister - invited - men - hall - to sit - unable - park - gathered together
+	(ins/m/s) - (pp/nom/m/p) - (nom/m/p) - (loc/f/s) - (inf) - (pres. part/nom/m/p) - (loc/m/s) - (a/3rd/p)
+	Men invited by the minister gathered together in the park unable to sit in the hall .
+
 23. Kassakehi khettesu vuttehi bījehi thokaṃ (little) sakuṇā khādiṃsu.
+	farmers - fields - sown - seeds - little - birds - ate
+	(ins/m/p) - (loc/m/p) - (pp/loc/m/p) - (abl/m/p) - (acc/m/s) - (nom/m/p) - (a/3rd/p)
+	Birds ate a little of the seeds sown in the field by the farmers.
+
 24. Kumārehi rukkhamūle nilīyitvā sayanto sappo diṭṭho hoti.
+	boys - foot of a tree - having hid - sleeping - serpent - seen - was
+	(ins/m/p) - (loc/m/s) - (abs) - (prp/nom/m/s) - (nom/m/s) - (pp/nom/m/s) - (p/3rd/s)
+	The serpent was seen by the boys sleeping having hid at the foot of a tree 
+
 25. Vāṇijena dīpamhā āhaṭāni vatthāni kiṇituṃ vanitāyo icchanti.
+	merchant - island - brought - clothes - to buy - women - desire
+	(ins/m/s) - (abl/m/s) - (pp/acc/n/p) - (acc/n/p) - (inf) - (nom/f/p) - (pr/3rd/p)
+	The women desire to buy clothes brought from the island by the merchant.
+
 26. Sace bhūpālo dhammena manusse rakkheyya te kammāni katvā dārake posentā sukhaṃ vindeyyuṃ.
-27. Puttena yācitā ammāmittānaṃ odanaṃ paṭiyādesi.
+	if - king - doctrine - people - protects - that - actions - having spoke - children - 
+	(ind) - (nom/m/s) - (ins/m/s) - (acc/m/p) - (opt/3rd/s) - (pro) - (?/n/p) - (abs) - (acc/m/p)
+
+27. Puttena yācitā ammā mittānaṃ odanaṃ paṭiyādesi.
+	son - begged - mother - friends - cooked rice - prepared
+	(ins/m/s) - (pp/nom/m/p) - (nom/f/s) - (dat/m/p) - (acc/m/s) - (a/3rd/s)
+	the son begged, the mother prepared cooked rice for friends 
+
 28. Amaccena puṭṭhaṃ pañhaṃ adhigantuṃ asakkonto corānaṃ dūto cintetuṃ ārabhi.
+	minister - questioned - question - to understand - unable - robbers - messenger - to think - started
+	(ins/m/s) - (pp/acc/m/s) - (acc/m/s) - (inf) - (prp/nom/m/s) - (gen/m/p) - (nom/m/s) - (inf) - (a/3rd/s)
+	the robbers' messenger started to think, unable to understand the question asked by the minister.
+
 29. Corehi guhāyaṃ nilīyitāni bhaṇḍāni passitvā vānarā tāni (them) ādāya rukkhe āruhiṃsu.
+	robbers - cave - hid - goods - having seen - monkeys - them - having taken - tree - climbed
+	(ins/m/p) - (loc/f/s) - (pp/acc/n/p) - (acc/n/p) - (abs) - (nom/m/p) - (pro) - (abs) - (loc/m/s) - (a/3rd/p)
+	monkeys climbed the tree having taken goods, having seen them hid in the cave by the robbers.
+
 30. Ahaṃ pariyesitaṃ dhammaṃ adhigantvā modāmi.
+	I - searched - doctrine - having understood - take delight
+	(pro) - (pp/acc/m/s) - (acc/m/s) - (abs) - (pr/1st/s)
+	I take delight having understand the doctrine I searched for.
