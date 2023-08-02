@@ -1,16 +1,58 @@
 Exercise 20
 
 1. Bhūpālo rājiniyā saddhiṃ nāvāya nadiṃ taranto udake carante macche olokento amaccehi saddhiṃ katheti.
+	king - queen - with - ship - river - crossing - water - wandering - fishes - looking at - ministers - with - speaks
+	(nom/m/s) - (ins/f/s) - (ind) - (ins/f/s) - (loc/f/s) - (prp/nom/m/s) - (loc/n/s) - (prp/loc/nom/s) - (acc/m/p) - (prp/nom/m/s) - (abl,ins/m/p) - (ind) - (p/3rd/s)
+	The king with the queen crossing the river by the boat speaks with his ministers looking at the fishes moving in the water.
+
 2. Pāniyaṃ pivitvā dārikāya bhūmiyaṃ nikkhitto patto bhinno hoti.
+	drinking water - having drunk - girl - ground - put down - bowl - broken - is
+	(acc/n/s) - (abs) - (ins/f/s) - (loc/f/s) - (pp/nom/m/s) - (nom/m/s) - (pp/nom/m/s) - (p/3rd/s).
+	The bowl is broken which was put down on the ground by the girl having drunk the drinking water.
+
 3. Kassakānaṃ gāviyo aṭaviyaṃ āhiṇḍitvā khettaṃ āgamiṃsu.
+	farmers - cows - forest - having roamed - field - came
+	(dat,gen/m/p) - (nom/f/p) - (loc/f/s) - (abs) - (acc/m/s) - (a/3rd/p)
+	The farmers' cows came to the field having roamed in the forest.
+
 4. Rattiyā samuddasmiṃ patitā candassa rasmiyo oloketvā taruṇiyo modiṃsu
+	night - sea - fell - moon - rays - having looked at - young women - took delight
+	(abl,dat,gen,loc/f/s) -	(loc/m/s) - (pp/nom/m/p) - (gen/m/s) - (acc/f/p) - (abs) - (nom/f/p) - (a/3rd/p)
+	Young women took delight having looked at the rays of the moon that fell on the sea at night.
+
 5. Upāsakā iddhiyā ākāse gacchantaṃ tāpasaṃ disvā pasannā honti.
+	lay devotees - psychic power - sky - going - hermit - having seen - are pleased - are
+	(nom/m/p) - (ins/f/s) - (loc/m/s) - (prp/acc/m/s) - (acc/m/s) - (abs) - (pp/nom/m/p) - (pr/3rd/p)
+	Lay devotees are pleased having seen the hermit going through the sky by psychic power.
+
 6. Bhaginiyā saddhiṃ pokkharaṇiyā tīre (bank) ṭhatva so padumāni ocinituṃ vāyami.
+	sister - with - pond - bank - having stood - he - lotuses - to collect - tried
+	(ins/f/s) - (ind) - (gen/f/s) - (loc/m/s) - (abs) - (pro/3rd/s) - (acc/n/p) - (inf) - (pr/1st/s)
+	Having stood on the bank of the pond with his sister, he tried to pick lotuses.
+
 7. Nāriyo vāpīsu nahāyituṃ vā (or) vatthāni dhovituṃ vā na icchiṃsu.
+	women - tank - to bathe - or - clothes - to wash - or - not - wished
+	(nom/f/p) - (loc/f/p) - (inf) - (ind) - (?/n/p) - (inf) - (ind) - (ind) - (a/3rd/p)
+	Women did not wish to wash clothes or to bathe at the tank.
+
 8. Yuvatiyā puṭṭhaṃ pañhaṃ vyākātuṃ asakkonto ahaṃ tāya (with her) saddhiṃ sallapituṃ ārabhiṃ.
+	young woman - questioned - question - to explain - not able - I - with her - with - to converse - started
+	(ins/f/s) - (pp/acc/m/s) - (acc/m/s) - (pp/nom/m/s) - (pro/1st/s) - (pro/3rd/s) - (ind) - (inf) - (a/1st/s)
+	Not able to explain the question asked by the young woman, I started to converse with her.
+
 9. Asappurisassa puttena kataṃ pāpakammaṃ paṭicchādetuṃ ammā na ussahi.
+	wicked man - son - done - evil-action - to hide - mother - not - tried
+	(gen/m/s) - (ins/m/s) - (pp/acc/m/s) - (acc/m/s) - (inf) - (nom/f/s) - (ind) - (a/3rd/s)
+	the mother did not try to hide the evil-deed done by the son of the wicked man.
+
 10. Bhaginiyā dussena veṭhetvā mañcasmiṃ ṭhapitaṃ bhaṇḍaṃ itthī mañjūsāyaṃ pakkhipi.
+	sister - cloth - having wrapped - bed - kept - item - woman - box - put
+	(ins/f/s) - (ins/m/s) - (abs) - (loc/m/s) - (pp/acc/m/s) - (acc/n/s) - (nom/f/s) - (loc/f/s) - (a/3rd/s).
+	The woman put in a box the item kept on the bed having wrapped in a cloth by the sister.
+
 11. Mā tumhe magge sayantaṃ kukkuraṃ viheṭhetha.
+	not - you (p) - path - 
+	(ind) - (pro/2nd/p) - (loc/m/s) -
 12. Sappuriso amacco dhanaṃ vissajjetvā yācakānaṃ vasituṃ.
 13. Kumāro suvaṃ hatthamhā muñcitvā taṃ uḍḍentaṃ passamāno rodanto rukkhamūle aṭṭhāsi.
 14. Saddhāya dānaṃ dadamānā kusalaṃ karontā sappurisā puna (again) manussaloke uppajjituṃ patthenti.
